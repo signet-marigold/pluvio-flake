@@ -1,4 +1,4 @@
-A nix package manager flake of my app [Pluvio](https://github.com/signet-marigold/Pluvio)
+A nix flake for building [Pluvio](https://github.com/signet-marigold/Pluvio)
 
 To test this flake on your system, use the command:
 
